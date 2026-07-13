@@ -30,6 +30,6 @@ group :development, :test do
     gem 'rubocop-rake', platform: :mri
     gem 'rubocop-rspec', platform: :mri
 
-    gem 'simplecov', '~> 0.21', platform: :mri
+    gem 'simplecov', '~> 1.0', platform: :mri
   end
 end
